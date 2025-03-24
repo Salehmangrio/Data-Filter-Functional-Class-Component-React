@@ -1,12 +1,36 @@
-# React + Vite
+# Data Filter using Functional Component and Class Component
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## To Run the Project on Your Laptop or PC, Follow These Steps:
 
-Currently, two official plugins are available:
+### Step 1: Clone the Project Using the Command Below:
+```sh
+git clone https://github.com/Salehmangrio/Data-Filter-Functional-Class-Component-React.git
+```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Step 2: Navigate to the Project Directory
+```sh
+cd Data-Filter-Functional-Class-Component-React
+```
 
-## Expanding the ESLint configuration
+### Step 3: Install Dependencies
+```sh
+npm install
+```
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Step 4: Run the Project
+```sh
+npm run dev
+```
+
+## Features
+- Implements data filtering using both Functional and Class components in React.
+- Uses React state in Functional and Class Components
+- Showcases the difference between functional and class-based approaches.
+
+## Technologies Used
+- React.js
+- JavaScript (ES6+)
+- TailwindCSS (for styling) 
+
+## License
+This project is open-source and available under the [MIT License](LICENSE).
